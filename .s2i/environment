@@ -1,4 +1,4 @@
 # The default environment for this Ruby application is production
 RACK_ENV=production
 
-#HTTP_PROXY=http://incorrect.proxy:3128
+ENV_TEST=envtest1
